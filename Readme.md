@@ -2,7 +2,7 @@
 
 A console-based **Course Registration System** written in pure **C**, built as a mini project for UKF College of Engineering & Technology. It supports three user roles (Student, Faculty and Admin) and stores all data in **binary `.dat` files**, with no external database needed.
 
-> Developed by **RISWANA**, S3 Data Science
+> Developed by **ASHIQ S**, Creative Developer
 
 ---
 
